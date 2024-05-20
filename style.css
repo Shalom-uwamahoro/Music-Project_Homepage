@@ -1,0 +1,228 @@
+
+
+
+
+   body{
+    background-color: rgb(243, 237, 237);
+    color: blue;
+   
+   
+    }
+   
+   
+   .content{
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+   }
+   
+   
+   
+   
+   
+   
+   
+   
+   #icon{
+    width: 30px;
+    height: 30px;
+    position:absolute;
+    padding-top: 20px;
+    padding-right: 70px;
+   }
+   
+   
+   
+   
+   
+   
+   .whole-page{
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    height: 900px;
+   
+   
+   }
+   
+   
+   
+   
+   .SideBar{
+    display: flex;
+    flex-direction: column;
+     }
+   
+   
+   
+   
+   
+   
+   
+   
+    .page-division{
+      display: flex;
+      flex-direction: row;
+    }
+    /* .create{
+      display: flex;
+      flex-direction: column;
+      margin-top: 15%;
+      margin-bottom: 25%;
+      margin-left: 2%;
+    } */
+    
+    .lib{
+      display: flex;
+      gap: 40px;
+    }
+     .library{
+      display: flex;
+     }
+   
+   
+   
+   
+   
+   
+    .middle-section-div{
+      border: 2px solid rgb(44, 44, 43);
+      background-color:#708090;
+      width: 100%;
+      border-radius: 30px;
+      height: 1500px;
+      margin-left: 0%;
+      padding-bottom: 5%;
+      margin: 0%;
+      padding-right: 5%;
+      float: left;
+     
+   
+   
+    }
+   
+   
+   .cover-images{
+    display: flex;
+    }
+   
+   
+   .display-right{
+    float: right;
+   }
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+    .your-collection-show-all{
+      display: flex;
+      justify-content: space-between;
+      margin-top: 5%;
+      padding: 5px;
+     }
+   
+   
+   
+   
+    
+    #music-box{
+      border: 2px solid ;
+      width: 235px;
+      height: 245px;
+      border-radius: 5px;
+       border-radius: 10px;
+    }
+   
+   
+   
+   
+    #music-covers{
+      width: 235px;
+      height: 245px;
+      border-radius: 1px;
+     
+    }
+     .create-your-first-playlist{
+     
+      border: 2px solid rgb(44, 44, 43);
+      background-color: rgb(244, 166, 21);
+      width: 340px;
+      border-radius: 30px;
+      height: 850px;
+      margin-left: 0%;
+      margin-right: 8%;
+      margin-bottom:10%;
+    }
+   
+   
+   
+   
+   
+   
+    .footer {
+       color:blue;
+      padding: 20px;
+      text-align: center;
+      display: flex;
+      gap: 15%;
+      margin-top: 3%;
+      width: 96%;
+      margin-left: 0%;
+      border-radius: 20px;
+      padding-right: 11%;
+   
+   
+   }
+   
+   
+   
+   
+   .footer-content{
+    display: flex;
+    margin-top: 2%;
+   gap: 90px;
+    margin-left: 15%;
+    justify-content: space-between;
+    font-size: 20px;
+   }
+   .footer-section {
+      margin-bottom: 10px;
+   }
+   .social-icons {
+      display: inline-block;
+      margin-right: 5px;
+   }
+   
+   
+   
+   
+   
+   
+   .footer{
+    border: 2px solid black;
+    color: white;
+    background-color: orange;
+    width: 88%;
+    height: 150px;
+    border-radius: 5px;
+    /* margin-top: 20px; */
+    margin-top: 38%;
+   
+   
+   }
+   
+   
+   
+   
+   
+   
